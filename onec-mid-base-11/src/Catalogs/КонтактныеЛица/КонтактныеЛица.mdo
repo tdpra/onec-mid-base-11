@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="adf41a44-ede9-47fb-800b-9e3acc3903c3">
+  <producedTypes>
+    <objectType typeId="6e538630-2c88-4366-a126-9ece4447b327" valueTypeId="64952cd5-23da-4ade-9a85-9ff179b9b968"/>
+    <refType typeId="6d3a3278-137c-47ad-8aa9-43fbb02e976e" valueTypeId="f5438771-dca6-47a4-9613-11e37b1508bb"/>
+    <selectionType typeId="2fe8a6ac-1206-42b9-acff-b2b5f51df6d8" valueTypeId="8fcf67aa-e509-4eb4-90fd-068587761b8b"/>
+    <listType typeId="6a50f9aa-3e68-4af1-b3a4-662c0a38b419" valueTypeId="19e241e6-f2a1-46ae-9a93-a6b1785b8720"/>
+    <managerType typeId="71ac4440-1a70-4a9f-b256-ea32713b539c" valueTypeId="52604069-83b6-4d14-9417-06c705fb1856"/>
+  </producedTypes>
+  <name>КонтактныеЛица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контактные лица</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.КонтактныеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.КонтактныеЛица.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>КонтактноеЛицо</value>
+  </objectPresentation>
+  <extendedObjectPresentation>
+    <key>ru</key>
+    <value>КонтактныеЛица</value>
+  </extendedObjectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>КонтактныеЛица</value>
+  </listPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
