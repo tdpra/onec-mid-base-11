@@ -26,15 +26,15 @@
   <fullTextSearch>Use</fullTextSearch>
   <objectPresentation>
     <key>ru</key>
-    <value>КонтактноеЛицо</value>
+    <value>Контактное лицо</value>
   </objectPresentation>
   <extendedObjectPresentation>
     <key>ru</key>
-    <value>КонтактныеЛица</value>
+    <value>Контактное лицо</value>
   </extendedObjectPresentation>
   <listPresentation>
     <key>ru</key>
-    <value>КонтактныеЛица</value>
+    <value>Контактные лица</value>
   </listPresentation>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
